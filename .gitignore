@@ -1,0 +1,15 @@
+# mac os x
+.DS_Store
+
+# error log
+yarn-error.log
+
+
+
+
+
+# Others
+.idea/
+*.iml
+.vscode
+node_modules/
